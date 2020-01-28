@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Disable Stupid Admin Email Check
-Plugin URI: https://ieg.wnet.org/
+Plugin URI: https://github.com/tamw-wnet/disable-admin-email-check
 Description: Enable this plugin to completely disable the every-6-month admin email check that was stupidly added to WP Core in 5.3
 Version: 1.0
 Author: William Tam
