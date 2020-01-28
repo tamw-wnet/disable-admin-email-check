@@ -27,5 +27,8 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 */
 
+// original source of this filter is in this blog post:
+// https://make.wordpress.org/core/2019/10/17/wordpress-5-3-admin-email-verification-screen/
+
 // yes this plugin is exactly one line of code
 add_filter( 'admin_email_check_interval', '__return_false' );
